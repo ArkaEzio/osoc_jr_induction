@@ -1,0 +1,19 @@
+1) Trying to merge file
+arkae@DESKTOP-614A14T MINGW64 /f/OSOC_026/osoc_jr_induction (main)
+$ git merge br1
+CONFLICT (add/add): Merge conflict in commandfile.txt (The merge conflict arrises)
+Auto-merging commandfile.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+2)Opened commandfile.txt to remove unnecessary commands
+arkae@DESKTOP-614A14T MINGW64 /f/OSOC_026/osoc_jr_induction (main|MERGING)
+$ vim commandfile.txt
+
+3)Added and committed it to resolve conflict.
+arkae@DESKTOP-614A14T MINGW64 /f/OSOC_026/osoc_jr_induction (main|MERGING)
+$ git add commandfile.txt
+
+arkae@DESKTOP-614A14T MINGW64 /f/OSOC_026/osoc_jr_induction (main|MERGING)
+$ git commit -m "Resolving conflict file commandfile.txt"
+[main aae101d] Resolving conflict file commandfile.txt
+

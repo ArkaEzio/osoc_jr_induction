@@ -1,0 +1,24 @@
+commit aae101d319da71df8967f56701da518d19c7fcf3
+Merge: 7e6c757 33302de
+Author: ArkaEzio <apgarka5@gmail.com>
+Date:   Fri Jan 7 22:19:36 2022 +0530
+
+    Resolving conflict file commandfile.txt
+
+commit 33302dee796823c18347bbf5da79d5148633e011
+Author: ArkaEzio <apgarka5@gmail.com>
+Date:   Fri Jan 7 22:10:07 2022 +0530
+
+    Commiting branch file commandfile.txt
+
+commit 7e6c757f14dbc640d342d29ad83281fd020cfc47
+Author: ArkaEzio <apgarka5@gmail.com>
+Date:   Fri Jan 7 22:06:27 2022 +0530
+
+    Commiting main file commandfile.txt
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
