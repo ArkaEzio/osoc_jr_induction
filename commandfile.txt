@@ -1,5 +1,4 @@
 
-
 1. git config
 Git config command is super helpful. Especially when you are using Git for the first time, or you have a new Git installation. This command will set up your identity - Name and Email address. And this information will be used with every commit.
 
@@ -102,3 +101,6 @@ You should use the Git rebase command when you have multiple private branches to
 Usage 
 
 $ git rebase <base>
+
+Merged portion:-
+My name is Arkaprabha Ghosh.
